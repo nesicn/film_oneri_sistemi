@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English">
+  <a href="README_TR.md"><img src="https://img.shields.io/badge/Dil-Türkçe-red?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Türkçe"></a>
+</p>
+
+---
+
 # 🎬 CosineCast — Movie Recommender System
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-CosineCast_App-E50914?style=for-the-badge&logo=google&logoColor=white)](https://cosinecast.ai.studio/)

@@ -12,7 +12,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Veri Seti](https://img.shields.io/badge/Veri_Seti-MovieLens_100K-F37021?style=flat)](https://grouplens.org/datasets/movielens/100k/)
 
-**MovieLens 100K** referans veri seti üzerinde geliştirilmiş, matematiksel temellere dayanan, uçtan uca bir Film Öneri Sistemi. 
+**MovieLens** referans veri seti üzerinde geliştirilmiş, matematiksel temellere dayanan, uçtan uca bir Film Öneri Sistemi. 
 
 Bu repo; tamamen sıfırdan oluşturulmuş **Google Colab not defterini**, algoritmaları ve keşifsel veri analizini (EDA) içermektedir. Modelin gerçek zamanlı performansını sergilemek amacıyla **Google AI Studio** kullanılarak etkileşimli ve canlıya alınmaya hazır (production-ready) bir web uygulaması demosu geliştirilmiştir.
 

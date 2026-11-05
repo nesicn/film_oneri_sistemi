@@ -12,7 +12,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Dataset](https://img.shields.io/badge/Dataset-MovieLens_100K-F37021?style=flat)](https://grouplens.org/datasets/movielens/100k/)
 
-An end-to-end, mathematically grounded Movie Recommendation System built on the benchmark **MovieLens 100K** dataset. 
+An end-to-end, mathematically grounded Movie Recommendation System built on the benchmark **MovieLens** dataset. 
 
 This repository hosts the original **Google Colab notebook**, algorithms, and exploratory data analysis built completely from scratch. An interactive, production-ready web application demo was built and deployed using **Google AI Studio** to showcase the model in real time.
 
